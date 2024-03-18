@@ -14,4 +14,7 @@ function tambah(a, b) {
   function bagi(a, b) {
     return a / b;
   }
-  
+
+  function modulus(a, b) {
+    return a % b;
+  }
